@@ -54,7 +54,7 @@ Thus the JAVA program to find the minimum value (e.g., lowest heartbeat), implem
 
 
 # Ex2 Count how many times a number appears in an array recursively.
-## DATE: 20.08.2025
+
 ## AIM:
 To write a Java program to Count how many times a number appears in an array recursively.
 
@@ -128,7 +128,7 @@ Thus, the Java program to Count how many times a number appears in an array recu
 
 
 # EX3 Write a program to count the number of digits in an integer.
-## DATE: 27.08.2025
+
 ## AIM:
 To write a C program to implement Tower of Hanoi
 
@@ -177,7 +177,7 @@ public class CountDigitsRecursive {
 Thus, the Java program to to count the number of digits in an integer is implemented successfully.
 
 # Ex4 You are given a Java program that performs matrix addition. If Matrix A has all odd numbers and Matrix B has all even numbers of the same dimension, what will be the nature (even/odd/mixed) of the resulting matrix?
-## DATE: 3.09.2025
+
 ## AIM:
 To write a java function to evaluate weather the given Matrix A has all odd numbers and Matrix B has all even numbers of the same dimension and find the nature of resultant matrrix.
 
@@ -250,7 +250,7 @@ Thus, the java program to evaluate weather the given Matrix A has all odd number
 
 
 # Ex5 Count Inversions in an Array
-## DATE: 10.09.2025
+
 ## AIM:
 To write a Java program  to Count the number of inversions in an array where inversion is defined as: arr[i] > arr[j] and i < j
 
